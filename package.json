@@ -1,5 +1,5 @@
 {
-  "name": "jsbn",
+  "name": "@aleen42/jsbn",
   "version": "1.3.1",
   "description": "The jsbn library is a pure JavaScript implementation of arbitrary-precision integer arithmetic.",
   "main": "jsbn.js",
